@@ -59,6 +59,7 @@ Skills
 Experience
 ----------
 ###Freelance Designer & Illustrator: July 2014&ndash;present
+Book cover design, illustrations and layouts for publishers.
 
 ###[Oneworld Publications] (http://www.oneworld-publications.com)
 ####Marketing Manager: July 2011&ndash;July 2014
