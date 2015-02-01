@@ -1,8 +1,6 @@
 Alan Bridger
 ============
-**Email**: alanrbridger@gmail.com | **Phone**: 07825161969
-
-**Website**: [www.builtbybadger.com](http://www.builtbybadger.com)
+**Email**: alanrbridger@gmail.com | **Phone**: 07825161969 | **Website**: [www.builtbybadger.com](http://www.builtbybadger.com)
 
 
 Developer, Designer, Baker
@@ -24,46 +22,36 @@ individuals with surplus food to those local charities and organisations in need
 
 Skills
 ------
-###Practices
-* Test-driven Development
+
+| **Practices** | * Test-driven Development
 * Behaviour-driven Development
 * Pair Programming
 * Agile
-* Git version control
-
-###Languages
-* JavaScript
+* Git version control |
+| **Languages** | * JavaScript
 * Ruby
 * HTML 5
-* CSS 3
-
-###Testing Tools
-* Jasmine
+* CSS 3 |
+| **Testing Tools** | * Jasmine
 * Mocha
 * Chai
 * Caspar
 * RSpec
 * Cucumber
-* Capybara
-
-###Frameworks & Libraries
-* Express
+* Capybara |
+| **Frameworks & Libraries** | * Express
 * Node.js
 * Angular
 * D3.js
 * Sinatra
 * Rails 4
 * Bootstrap
-* Foundation
-
-###Web Services
-* Heroku
-* AWS
-
-###Software Packages
-* Adobe Photoshop
+* Foundation |
+| **Web Services** | * Heroku
+* AWS |
+| **Software Packages** | * Adobe Photoshop
 * Adobe InDesign
-* Adobe Illustrator
+* Adobe Illustrator |
 
 
 Experience
@@ -85,6 +73,8 @@ new social marketing opportunities.
 materials, and sales packs.
 * **Ebook marketing**: Liaising with key retailers to promote Oneworld ebook
 titles and find new opportunities.
+
+---------------------------------------
 
 ###[I.B.Tauris & Co. Publishers](http://www.ibtauris.com/)
 ####Digital Publishing Executive: September 2009&nash;June 2011
@@ -110,9 +100,13 @@ Education
 ####Illustration Short Course: August 2014
 A short intensive course to develop my illustration.
 
+---------------------------------------
+
 ###Skillab
 ####June&ndash;July 2014
 Informal introductory course to programming, focusing on Javascript.
+
+---------------------------------------
 
 ###Oxford Brookes University
 ####MA Publishing (distinction): 2008&ndash;2009
@@ -120,9 +114,13 @@ Modules in Editorial Management, Marketing, Design & Production, New Product Dev
 Rights Management and Digital Media Publishing. For my Major Project I wrote a
 feasibility analysis and project plan for the creation of an online collaborative publisher.
 
+---------------------------------------
+
 ###University of Durham
 ####BA (Hons) Philosophy (2:1): 2005&ndash;2008
 Undergraduate philosophy degree.
+
+---------------------------------------
 
 ###London Academy of Radio, Film & Television
 ####Digital Photography Master Class: 2006
