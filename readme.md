@@ -25,35 +25,35 @@ Skills
 
 | Area | Details |
 |-----------------|---------------|
-| **Practices** | * Test-driven Development
-* Behaviour-driven Development
-* Pair Programming
-* Agile
-* Git version control |
-| **Languages** | * JavaScript
-* Ruby
-* HTML 5
-* CSS 3 |
-| **Testing Tools** | * Jasmine
-* Mocha
-* Chai
-* Caspar
-* RSpec
-* Cucumber
-* Capybara |
-| **Frameworks & Libraries** | * Express
-* Node.js
-* Angular
-* D3.js
-* Sinatra
-* Rails 4
-* Bootstrap
-* Foundation |
-| **Web Services** | * Heroku
-* AWS |
-| **Software Packages** | * Adobe Photoshop
-* Adobe InDesign
-* Adobe Illustrator |
+| **Practices** | Test-driven Development |
+| | Behaviour-driven Development |
+| | Pair Programming |
+| | Agile |
+| | Git version control |
+| **Languages** | JavaScript |
+| | Ruby |
+| | HTML 5 |
+| | CSS 3 |
+| **Testing Tools** | Jasmine |
+| | Mocha |
+| | Chai |
+| | Caspar |
+| | RSpec |
+| | Cucumber |
+| | Capybara |
+| **Frameworks & Libraries** | Express |
+| | Node.js |
+| | Angular |
+| | D3.js |
+| | Sinatra |
+| | Rails 4 |
+| | Bootstrap |
+| | Foundation |
+| **Web Services** | Heroku |
+| | AWS |
+| **Software Packages** | Adobe Photoshop |
+| | Adobe InDesign |
+| | Adobe Illustrator |
 
 
 Experience
