@@ -23,6 +23,8 @@ individuals with surplus food to those local charities and organisations in need
 Skills
 ------
 
+| Area | Details |
+|-----------------|---------------|
 | **Practices** | * Test-driven Development
 * Behaviour-driven Development
 * Pair Programming
