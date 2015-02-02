@@ -5,12 +5,7 @@ Alan Bridger
 
 Developer. Designer. Part-time Baker
 ------------------------------------
-I&rsquo;m a coder and designer with a background in book publishing and marketing. After
-several years working for independent book publishers in London & dabbling in web design,
-I wanted to improve my coding and refocus my career and enroll in the [Makers Academy course](https://github.com/abridger/makers-academy-course).
-
-When not coding, designing, doodling or taking photographs, I&rsquo;ll almost certainly
-be baking bread.
+I&rsquo;m a coder and designer with a background in book publishing and marketing. After several years working for independent book publishers in London and dabbling in web design, I wanted to improve my coding and refocus my career and enroll in the [Makers Academy course](https://github.com/abridger/makers-academy-course). Now a Makers Academy graduate, I&rsquo;m looking for a career in front-end design and development. When not coding, designing, doodling or taking photographs, you&rsquo;ll almost certinaly find me baking bread.
 
 
 Current Projects
