@@ -80,7 +80,7 @@ titles and find new opportunities.
 ---------------------------------------
 
 ###[I.B.Tauris & Co. Publishers](http://www.ibtauris.com/)
-####Digital Publishing Executive: September 2009&nash;June 2011
+####Digital Publishing Executive: September 2009&ndash;June 2011
 I.B.Tauris is an independent academic publisher specialising in the Middle East, Politics and In    ternational Relations, History, Religion and Philosophy. As Digital Publishing Executive, for email marketing, soc    ial media marketing, and managing the I.B. Tauris website.
 * **Website**: *Development* &ndash; researching competitor websites; developing
 new ideas; creating a specification; liaising with developers; contributing to the
