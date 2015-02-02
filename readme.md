@@ -3,8 +3,8 @@ Alan Bridger
 **Email**: alanrbridger@gmail.com | **Phone**: 07825161969 | **Website**: [www.builtbybadger.com](http://www.builtbybadger.com)
 
 
-Developer, Designer, Baker
-----------------------------
+Developer. Designer. Part-time Baker
+------------------------------------
 I&rsquo;m a coder and designer with a background in book publishing and marketing. After
 several years working for independent book publishers in London & dabbling in web design,
 I wanted to improve my coding and refocus my career and enroll in the [Makers Academy course](https://github.com/abridger/makers-academy-course).
@@ -63,7 +63,7 @@ Book cover design, illustrations and layouts for publishers.
 
 ###[Oneworld Publications] (http://www.oneworld-publications.com)
 ####Marketing Manager: July 2011&ndash;July 2014
-Responsible for all marketing at Oneworld, with a particular focus on online marketing.
+Oneworld Publications is a small, independent book publisher with a focus on literary fiction an    d narrative non-fiction. I was responsible for all marketing at Oneworld, with a particular focus on online marketing.
 * **Website Development**: Design, development and maintenance of a new company
 website, using Drupal 7. From drawing up the initial wireframes to uploading content
 and writing features, I have developed a completely new website.
@@ -81,15 +81,14 @@ titles and find new opportunities.
 
 ###[I.B.Tauris & Co. Publishers](http://www.ibtauris.com/)
 ####Digital Publishing Executive: September 2009&nash;June 2011
-Responsible for email marketing, social media marketing, and managing the I.B.
-Tauris website.
+I.B.Tauris is an independent academic publisher specialising in the Middle East, Politics and In    ternational Relations, History, Religion and Philosophy. As Digital Publishing Executive, for email marketing, soc    ial media marketing, and managing the I.B. Tauris website.
 * **Website**: *Development* &ndash; researching competitor websites; developing
 new ideas; creating a specification; liaising with developers; contributing to the
 design; testing the website. *Management* &ndash; updating content; copywriting;
 commissioning articles from colleagues and authors; running promotions.
 * **Email marketing**: Managing email marketing campaigns; improving and
 redesigning existing HTML email templates; devising and implementing new email
-marketing strategy
+marketing strategy.
 * **Social media marketing**: Developing a new social media marketing strategy;
 establishing a presence on prominent social networks; experimenting with a variety
 of different social media marketing techniques.
