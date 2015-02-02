@@ -2,10 +2,11 @@ Alan Bridger
 ============
 **Email**: alanrbridger@gmail.com | **Phone**: 07825161969 | **Website**: [www.builtbybadger.com](http://www.builtbybadger.com)
 
+[Fully-cooked PDF](http://registry.jsonresume.org/alanbridger.pdf) | [Raw JSON](http://registry.jsonresume.org/alanbridger.json)
 
 Developer. Designer. Part-time Baker
 ------------------------------------
-I&rsquo;m a coder and designer with a background in book publishing and marketing. After several years working for independent book publishers in London and dabbling in web design, I wanted to improve my coding and refocus my career and enroll in the [Makers Academy course](https://github.com/abridger/makers-academy-course). Now a Makers Academy graduate, I&rsquo;m looking for a career in front-end design and development. When not coding, designing, doodling or taking photographs, you&rsquo;ll almost certinaly find me baking bread.
+I&rsquo;m a coder and designer with a background in book publishing and marketing. After several years working for independent book publishers in London and dabbling in web design, I wanted to improve my coding and refocus my career, so I dedcided to enroll in the [Makers Academy course](https://github.com/abridger/makers-academy-course) &ndash; an intensive 12 week coding bootcamp. Now a Makers Academy graduate, I&rsquo;m looking for a career in front-end design and development. When not coding, designing, doodling or taking photographs, you&rsquo;ll almost certinaly find me baking bread.
 
 
 Current Projects
